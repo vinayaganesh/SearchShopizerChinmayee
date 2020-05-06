@@ -17,6 +17,15 @@ public class search {
         WebElement element = browser.findElement(By.xpath("//div[2]/input"));
         return element;
     }
+
 }
+
+
+
+
+
+
+
+
 
 
